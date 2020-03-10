@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c9f1474-bdee-49c8-9654-c5b7ea293956" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaLevel1Lesson5/StaffSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaLevel1Lesson5/StaffSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +30,46 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/J2_Stream200303" />
   </component>
-  <component name="RunManager" selected="Application.Сompetition">
-    <configuration name="Staff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaLevel1Lesson5.Staff" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="javaLevel2Lesson1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainCircles">
+    <configuration name="Game (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaLevel1Lesson8.Game" />
       <module name="JawaHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaLevel1Lesson5.*" />
+          <option name="PATTERN" value="javaLevel1Lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaLevel1Lesson7.Game" />
+      <module name="JawaHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaLevel1Lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCircles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaLevel2Lesson1.MainCircles" />
+      <module name="JawaHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaLevel2Lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,32 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaLevel1Lesson2Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaLevel1Lesson2.javaLevel1Lesson2Task7" />
-      <module name="JawaHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaLevel1Lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="jawaLevel1Lesson4Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaLevel1Lesson4.jawaLevel1Lesson4Task1" />
-      <module name="JawaHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaLevel1Lesson4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Сompetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaLevel1Lesson6.Сompetition" />
       <module name="JawaHomeWork" />
@@ -96,13 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Game" />
+      <item itemvalue="Application.StaffSearch" />
+      <item itemvalue="Application.Сompetition" />
+      <item itemvalue="Application.Game (1)" />
+      <item itemvalue="Application.MainCircles" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainCircles" />
+        <item itemvalue="Application.Game (1)" />
+        <item itemvalue="Application.Game" />
         <item itemvalue="Application.Сompetition" />
         <item itemvalue="Application.StaffSearch" />
-        <item itemvalue="Application.Staff" />
-        <item itemvalue="Application.jawaLevel1Lesson4Task1" />
-        <item itemvalue="Application.javaLevel1Lesson2Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -156,38 +170,50 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581874904889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1581874904889" />
     <state x="370" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580724215738">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="370" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1580724215738" />
-    <state x="731" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1580994307002">
+    <state x="731" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1583771141925">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="731" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1580994307002" />
-    <state width="1237" height="216" key="GridCell.Tab.0.bottom" timestamp="1580996120915">
+    <state x="731" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1583771141925" />
+    <state x="438" y="231" width="404" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583077748818">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="438" y="231" width="404" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1583077748818" />
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1583690436414">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1583690436414" />
+    <state width="618" height="215" key="GridCell.Tab.0.bottom" timestamp="1583775172697">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1237" height="244" key="GridCell.Tab.0.bottom/-1920.185.1280.695/0.0.2048.1122@-1920.185.1280.695" timestamp="1580388369497" />
-    <state width="1222" height="204" key="GridCell.Tab.0.bottom/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1580210106461" />
-    <state width="1237" height="216" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580996120915" />
-    <state width="1237" height="216" key="GridCell.Tab.0.center" timestamp="1580996120914">
+    <state width="2005" height="394" key="GridCell.Tab.0.bottom/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1581333341817" />
+    <state width="618" height="215" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1583775172697" />
+    <state width="618" height="215" key="GridCell.Tab.0.center" timestamp="1583775172696">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1237" height="244" key="GridCell.Tab.0.center/-1920.185.1280.695/0.0.2048.1122@-1920.185.1280.695" timestamp="1580388369497" />
-    <state width="1222" height="204" key="GridCell.Tab.0.center/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1580210106461" />
-    <state width="1237" height="216" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1580996120914" />
-    <state width="1237" height="216" key="GridCell.Tab.0.left" timestamp="1580996120914">
+    <state width="2005" height="394" key="GridCell.Tab.0.center/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1581333341817" />
+    <state width="618" height="215" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1583775172696" />
+    <state width="618" height="215" key="GridCell.Tab.0.left" timestamp="1583775172696">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1237" height="244" key="GridCell.Tab.0.left/-1920.185.1280.695/0.0.2048.1122@-1920.185.1280.695" timestamp="1580388369497" />
-    <state width="1222" height="204" key="GridCell.Tab.0.left/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1580210106461" />
-    <state width="1237" height="216" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1580996120914" />
-    <state width="1237" height="216" key="GridCell.Tab.0.right" timestamp="1580996120915">
+    <state width="2005" height="394" key="GridCell.Tab.0.left/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1581333341817" />
+    <state width="618" height="215" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1583775172696" />
+    <state width="618" height="215" key="GridCell.Tab.0.right" timestamp="1583775172696">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1237" height="244" key="GridCell.Tab.0.right/-1920.185.1280.695/0.0.2048.1122@-1920.185.1280.695" timestamp="1580388369497" />
-    <state width="1222" height="204" key="GridCell.Tab.0.right/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1580210106461" />
-    <state width="1237" height="216" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1580996120915" />
+    <state width="2005" height="394" key="GridCell.Tab.0.right/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1581333341817" />
+    <state width="618" height="215" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1583775172696" />
     <state width="1237" height="207" key="GridCell.Tab.1.bottom" timestamp="1580297455032">
       <screen x="-1920" y="185" width="1280" height="695" />
     </state>
@@ -212,13 +238,17 @@
     <state width="1237" height="207" key="GridCell.Tab.1.right/-1920.185.1280.695/0.0.2048.1122@-1920.185.1280.695" timestamp="1580297455032" />
     <state width="1222" height="204" key="GridCell.Tab.1.right/-1920.185.1280.695/0.0.2048.1122@0.0.2048.1122" timestamp="1580210106461" />
     <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1580247407144" />
-    <state x="371" y="101" key="extract.method.dialog" timestamp="1580919867767">
+    <state x="371" y="102" key="extract.method.dialog" timestamp="1581270416163">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="371" y="101" key="extract.method.dialog/0.0.1280.689@0.0.1280.689" timestamp="1580919867767" />
+    <state x="371" y="102" key="extract.method.dialog/0.0.1280.689@0.0.1280.689" timestamp="1581270416163" />
     <state x="-1920" y="185" width="742" height="695" key="find.popup" timestamp="1580294334517">
       <screen x="-1920" y="185" width="1280" height="695" />
     </state>
     <state x="-1920" y="185" width="742" height="695" key="find.popup/-1920.185.1280.695/0.0.2048.1122@-1920.185.1280.695" timestamp="1580294334517" />
+    <state x="303" y="10" key="search.everywhere.popup" timestamp="1581268740538">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1581268740538" />
   </component>
 </project>
